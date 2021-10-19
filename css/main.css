@@ -10,3 +10,11 @@ html {
 -ms-text-size-adjust: 100%;
 -webkit-text-size-adjust: 100%;
 text-size-adjust: 100%;
+
+ul {
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  justify-items: center;
+  margin: 0;
+  padding: 0;
+}
