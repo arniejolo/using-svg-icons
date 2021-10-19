@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  text-size-adjust: auto;
+  text-size-adjust: none;
 }
 
 *, *::before, *::after {
